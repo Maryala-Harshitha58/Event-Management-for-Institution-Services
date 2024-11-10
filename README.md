@@ -34,7 +34,7 @@ These instructions will guide you through setting up and running the Event Manag
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/event-management-institution-services.git
+   git clone https://github.com/Maryala-Harshitha58/Event-Management-for-Institution-Services.git
    cd event-management-institution-services
    ```
 
@@ -68,18 +68,12 @@ These instructions will guide you through setting up and running the Event Manag
 
 ![image](https://github.com/user-attachments/assets/2b718d25-c860-4df8-9c09-5c0f7ece818f)
 
-![image](https://github.com/user-attachments/assets/96425813-d55e-43af-b007-c7813af033c9)
+
+![image](https://github.com/user-attachments/assets/d7ac8f44-9c6b-4bc1-915e-4c82926c1a92)
+
 
 ![image](https://github.com/user-attachments/assets/bf63f19e-4598-44b6-8bc3-48995b4b1068)
 
-
-## Future Enhancements
-
-- **Automated Feedback Collection**: Post-event surveys to improve future experiences.
-- **Mobile App Integration**: Access event details on mobile for ease of use.
-- **AI-Powered Event Recommendations**: Personalized event suggestions based on user interests.
-- **Support for Virtual/Hybrid Events**: Integrate tools for virtual event hosting.
-- **Advanced Analytics**: Deeper insights to understand trends and improve planning.
 
 ## Contributing
 
@@ -93,7 +87,4 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This README provides a clear project summary, setup instructions, and guidance on contributing, making it easy for others to understand and contribute to the project on GitHub.
+This project is licensed under the MIT License. 
