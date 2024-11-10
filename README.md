@@ -66,13 +66,15 @@ These instructions will guide you through setting up and running the Event Manag
 - **Reports**: Use built-in reports and dashboards for analytics on event performance.
 ### Output
 
-![image](https://github.com/user-attachments/assets/2b718d25-c860-4df8-9c09-5c0f7ece818f)
+
+![image](https://github.com/user-attachments/assets/6a867228-a04c-44d4-a743-debcc7cc389c)
 
 
 ![image](https://github.com/user-attachments/assets/d7ac8f44-9c6b-4bc1-915e-4c82926c1a92)
 
 
-![image](https://github.com/user-attachments/assets/bf63f19e-4598-44b6-8bc3-48995b4b1068)
+
+![image](https://github.com/user-attachments/assets/c36ff84b-c561-492c-8479-78d1cbad1ed7)
 
 
 ## Contributing
